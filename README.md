@@ -2,7 +2,7 @@
 
 Small benchmark to test the efficiency of Numba comparing to well-known Cpython.
 
-This is material for this [bioinfo-fr article](python-fait-la-numba).
+This is material for this [bioinfo-fr article](http://bioinfo-fr.net/python-fait-la-numba).
 
 
 # Prerequisites
